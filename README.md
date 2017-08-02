@@ -2,6 +2,10 @@
 
 Raji Ayinla, Nick Himmel, Kane Lee
 
+## Video
+
+  [Video of myPolitician](https://s3.us-east-2.amazonaws.com/nickhimmel.com/mypolitician.mp4)
+
 ## Summary
   myPolitician is an interactive map that is used to find a user's representative
   at all levels of the government. From the state to the local level, users will
