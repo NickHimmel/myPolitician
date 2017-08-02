@@ -1,6 +1,7 @@
 # myPolitician
 
 [Live site](https://mypolitician.herokuapp.com)
+
 Raji Ayinla, Nick Himmel, Kane Lee
 
 ## Video
